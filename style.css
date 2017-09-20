@@ -1,0 +1,20 @@
+body{
+    font-size: auto;
+    margin: auto;
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Molengo';
+    color: #e5c478;
+    font-size: 290px;
+}
+h2{
+    text-align: center;
+    font-family: 'Meddon';
+    color: #e5c478;
+    font-size: 99px;
+}
+
+
